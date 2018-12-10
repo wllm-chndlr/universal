@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   siteTitle: `wllm chndlr`,
-  siteTitleShort: `GatsbyU`,
+  siteTitleShort: `wllm chndlr`,
   siteDescription: `An opinionated starter for Gatsby.`,
   siteUrl: `https://gu.fabianschultz.com`,
   themeColor: `#000`,
@@ -10,7 +10,7 @@ module.exports = {
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
-    twitter: `gatsbyjs`,
-    fbAppId: `966242223397117`,
+    twitter: `wllmchndlr`,
+    // fbAppId: `966242223397117`,
   },
 };
