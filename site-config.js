@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `wllm chndlr`,
+  siteTitle: `Wllm Chndlr`,
   siteTitleShort: `wllm chndlr`,
   siteDescription: `An opinionated starter for Gatsby.`,
   siteUrl: `https://gu.fabianschultz.com`,
@@ -11,6 +11,5 @@ module.exports = {
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
     twitter: `wllmchndlr`,
-    // fbAppId: `966242223397117`,
   },
 };

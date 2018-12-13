@@ -5,8 +5,11 @@ import { Container } from './nav.css';
 const Nav = () => (
   <Container>
     <ul>
-        <li>
+      <li>
         <Link to="/">Home</Link>
+      </li>
+      <li>
+        <Link to="/projects">Projects</Link>
       </li>
       <li>
         <Link to="/about">About</Link>
