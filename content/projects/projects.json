@@ -1,18 +1,18 @@
 {
-  "title": "Home",
-  "content": "intro.md",
+  "title": "Projects",
+  "content": "content.md",
   "gallery": [{
-    "title": "React Context",
+    "title": "Top Taco ATX",
     "copy": "For global styles.",
     "image": "../images/gallery/react-context.jpg"
   },
   {
-    "title": "Page Transitions",
+    "title": "Simpsons Clicky Game",
     "copy": "Component-based for easy usage.",
     "image": "../images/gallery/page-transitions.jpg"
   },
   {
-    "title": "Intersection Observer",
+    "title": "Rad Drumkit",
     "copy": "Including a polyfill for Safari.",
     "image": "../images/gallery/intersection-observer.jpg"
   }]

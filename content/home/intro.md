@@ -1,1 +1,1 @@
-Full stack developer, father, Funzo
+Full stack developer

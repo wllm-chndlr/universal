@@ -15,7 +15,7 @@ const Nav = () => (
         <Link to="/about">About</Link>
       </li>
       <li>
-        <a href="https://github.com/wllm-chndlr">GitHub</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/wllm-chndlr">GitHub</a>
       </li>
     </ul>
   </Container>
