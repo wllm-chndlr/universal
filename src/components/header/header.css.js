@@ -7,12 +7,12 @@ export const Container = styled.header`
   padding: 4rem;
 
   a {
-    color: #757575;
+    color: #e8e8e8;
     transition: color 0.2s ease;
     text-decoration: none;
 
     &:hover {
-      color: inherit;
+      color: #41c7c7;
     }
   }
 `;

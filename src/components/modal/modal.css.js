@@ -2,11 +2,11 @@ import styled from 'styled-components';
 
 export const Button = styled.button`
   -webkit-appearance: none;
-  background-color: #fff;
+  background-color: #212424;
   border-radius: 5px;
   border: none;
-  color: #757575;
-  border: 1px solid #ddd;
+  color: #e8e8e8;
+  border: 1px solid #757575;
   cursor: pointer;
   font-family: inherit;
   font-size: 1.3rem;
@@ -23,7 +23,8 @@ export const Button = styled.button`
   }
 
   &:hover {
-    background-color: #f9f9f9;
+    color: #41c7c7;
+    border: 1px solid #757575;
   }
 
   & + & {
