@@ -3,17 +3,17 @@
   "content": "content.md",
   "gallery": [{
     "title": "Top Taco ATX",
-    "copy": "For global styles.",
-    "image": "../images/gallery/react-context.jpg"
+    "copy": "Real-time ratings aggregator for Austin taco joints",
+    "image": "../images/gallery/toptaco.png"
   },
   {
     "title": "Simpsons Clicky Game",
-    "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg"
+    "copy": "Memory game built with React",
+    "image": "../images/gallery/simpsons.png"
   },
   {
     "title": "Rad Drumkit",
-    "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg"
+    "copy": "A pretty rad keyboard-based drumkit",
+    "image": "../images/gallery/drumkit.png"
   }]
 }

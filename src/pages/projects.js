@@ -5,26 +5,16 @@ import Box from 'components/box';
 import Title from 'components/title';
 import Gallery from 'components/gallery';
 import IOExample from 'components/io-example';
-import Modal from 'containers/modal';
 import { graphql } from 'gatsby';
 
 const Projects = ({ data }) => (
   <Layout>
     <Box>
       <Title as="h2" size="large">
-        {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
+        {data.projectsJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
-      <Modal>
-        <video
-          src="https://i.imgur.com/gzFqNSW.mp4"
-          playsInline
-          loop
-          autoPlay
-          muted
-        />
-      </Modal>
     </Box>
-    <Gallery items={data.homeJson.gallery} />
+    <Gallery items={data.projectsJson.gallery} />
     <div style={{ height: '50vh' }} />
     <IOExample />
   </Layout>
@@ -38,7 +28,7 @@ export default Projects;
 
 export const query = graphql`
   query ProjectsQuery {
-    homeJson {
+    projectsJson {
       title
       content {
         childMarkdownRemark {

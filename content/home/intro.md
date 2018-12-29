@@ -1,1 +1,3 @@
-Full stack developer
+Full Stack Developer
+UI Developer
+Software Engineer
