@@ -1,19 +1,26 @@
 {
-  "title": "Projects",
-  "content": "content.md",
-  "gallery": [{
-    "title": "Top Taco ATX",
-    "copy": "Real-time ratings aggregator for Austin taco joints",
-    "image": "../images/gallery/toptaco.png"
-  },
-  {
-    "title": "Simpsons Clicky Game",
-    "copy": "Memory game built with React",
-    "image": "../images/gallery/simpsons.png"
-  },
-  {
-    "title": "Rad Drumkit",
-    "copy": "A pretty rad keyboard-based drumkit",
-    "image": "../images/gallery/drumkit.png"
-  }]
+	"title": "Projects",
+	"content": "content.md",
+	"gallery": [
+		{
+			"title": "Top Taco ATX",
+			"copy": "Real-time ratings aggregator for Austin taco joints",
+			"image": "../images/gallery/toptaco.png"
+		},
+		{
+			"title": "Simpsons Clicky Game",
+			"copy": "Memory game built with React",
+			"image": "../images/gallery/simpsons.png"
+		},
+		{
+			"title": "Rad Drumkit",
+			"copy": "A pretty rad keyboard-based drumkit",
+			"image": "../images/gallery/drumkit.png"
+		},
+		{
+			"title": "La Mama Care",
+			"copy": "Prototype e-commerce site for Austin business specializing in care kits for new moms",
+			"image": "../images/gallery/lamamacare.png"
+		}
+	]
 }
