@@ -5,22 +5,26 @@
 		{
 			"title": "Top Taco ATX",
 			"copy": "Real-time ratings aggregator for Austin taco joints",
-			"image": "../images/gallery/toptaco.png"
+            "image": "../images/gallery/toptaco.png",
+            "link": "https://wllm-chndlr.github.io/TopTaco/"
 		},
 		{
 			"title": "Simpsons Clicky Game",
 			"copy": "Memory game built with React",
-			"image": "../images/gallery/simpsons.png"
+            "image": "../images/gallery/simpsons.png",
+            "link": "https://wllm-chndlr.github.io/TopTaco/"            
 		},
 		{
 			"title": "Rad Drumkit",
 			"copy": "A pretty rad keyboard-based drumkit",
-			"image": "../images/gallery/drumkit.png"
+            "image": "../images/gallery/drumkit.png",
+            "link": "https://wllm-chndlr.github.io/TopTaco/"
 		},
 		{
 			"title": "La Mama Care",
 			"copy": "Prototype e-commerce site for Austin business specializing in care kits for new moms",
-			"image": "../images/gallery/lamamacare.png"
+            "image": "../images/gallery/lamamacare.png",
+            "link": "https://wllm-chndlr.github.io/TopTaco/"
 		}
 	]
 }
