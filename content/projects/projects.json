@@ -12,19 +12,24 @@
 			"title": "Simpsons Clicky Game",
 			"copy": "Memory game built with React",
             "image": "../images/gallery/simpsons.png",
-            "link": "https://wllm-chndlr.github.io/TopTaco/"            
+            "link": "https://wllm-chndlr.github.io/clicky-game/"            
 		},
 		{
 			"title": "Rad Drumkit",
 			"copy": "A pretty rad keyboard-based drumkit",
             "image": "../images/gallery/drumkit.png",
-            "link": "https://wllm-chndlr.github.io/TopTaco/"
+            "link": "https://wllm-chndlr.github.io/drumkit/"
 		},
-		{
+        {
+			"title": "Birth Works ATX",
+			"copy": "Site for Austin birth doula and educator",
+            "image": "../images/gallery/jsc.png",
+            "link": "https://www.birthworksatx.com/"
+        },
+        {
 			"title": "La Mama Care",
 			"copy": "Prototype e-commerce site for Austin business specializing in care kits for new moms",
-            "image": "../images/gallery/lamamacare.png",
-            "link": "https://wllm-chndlr.github.io/TopTaco/"
-		}
+            "image": "../images/gallery/lamamacare.png"
+        }
 	]
 }

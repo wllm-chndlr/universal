@@ -5,11 +5,13 @@ import { Title, Copy } from './item.css';
 
 const Item = ({ title, copy, image, link }) => (
   <figure>
-    <Img fluid={image ? image.childImageSharp.fluid : {}} alt={title} />
+    <a href={link} target="_blank" rel="noopener noreferrer">
+      <Img fluid={image ? image.childImageSharp.fluid : {}} alt={title} />
+    </a>
     <figcaption>
       <Title>{title}</Title>
       <Copy>{copy}</Copy>
-      <Title>{link}</Title>
+      {/* <Title>{link}</Title> */}
     </figcaption>
   </figure>
 );
