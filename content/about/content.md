@@ -1,3 +1,5 @@
+Hey, I'm Will.
+
 A sixth-generation Texan, I've lived in Mexico, Scotland, and Spain. My family (partner: Jacqueline, son: Lochlan, daughter: Aila, dogs: Maggie + Griffin) and I are currently based in Austin, with dreams of the Pacific Northwest.
 
 For many years, I went down a liberal arts and social sciences path. I studied Spanish and earned a Masters in international relations. I supervised complex international academic programs, and managed an interdisciplinary human rights center. I worked on teams with people from multiple continents, and learned new ways of engaging with the world.

@@ -22,14 +22,9 @@
 		},
         {
 			"title": "Birth Works ATX",
-			"copy": "Site for Austin birth doula and educator",
+			"copy": "Site for Austin-based birth doula and educator",
             "image": "../images/gallery/jsc.png",
             "link": "https://www.birthworksatx.com/"
-        },
-        {
-			"title": "La Mama Care",
-			"copy": "Prototype e-commerce site for Austin business specializing in care kits for new moms",
-            "image": "../images/gallery/lamamacare.png"
         }
 	]
 }

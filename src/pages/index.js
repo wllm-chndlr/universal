@@ -14,6 +14,9 @@ const Index = ({ data }) => (
       <Title as="h2" size="large">
         {data.homeJson.content.childMarkdownRemark.rawMarkdownBody}
       </Title>
+      <div style={{ fontSize: '5rem' }}>
+        yo yo yo
+      </div>
       {/* <Modal>
         <video
           src="https://i.imgur.com/gzFqNSW.mp4"
