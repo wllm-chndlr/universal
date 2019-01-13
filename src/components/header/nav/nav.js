@@ -7,13 +7,17 @@ const Nav = () => (
     <ul>
       <li>
         <Link to="/">Home</Link>
+        <br/>
+        <Link to="/projects">Projects</Link>
+        <br/>
+        <Link to="/about">About</Link>
       </li>
-      <li>
+      {/* <li>
         <Link to="/projects">Projects</Link>
       </li>
       <li>
         <Link to="/about">About</Link>
-      </li>
+      </li> */}
       {/* <li>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/wllm-chndlr">GitHub</a>
       </li> */}
