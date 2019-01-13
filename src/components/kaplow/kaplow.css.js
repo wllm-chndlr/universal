@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
 //   background: #bada55;
-  color: #acdeaa;
+  color: #f0b530;
   display: grid;
   font-size: 2rem;
   grid-template-columns: repeat(2, 1fr);
