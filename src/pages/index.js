@@ -2,6 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Layout from 'components/layout';
 import Box from 'components/box';
+import Gallery from 'components/gallery';
 import Title from 'components/title';
 import Kaplow from 'components/kaplow';
 
@@ -31,20 +32,22 @@ const Index = ({ data }) => (
     </Box>
     <Kaplow>
       <div>
-        {/* bingity bong bang */}
+
       </div>
       <div>
-        ching chang chong
+        Hey, everyone. Thanks for stopping by.
       </div>
-      <a href='https://placeholder.com/'>
+      {/* <a href='https://placeholder.com/'>
         <img alt='placeholder' src='https://via.placeholder.com/150'/>
-      </a>
+      </a> */}
     </Kaplow>
+    <Gallery items={data.homeJson.gallery} />
+
     {/* <Kaplow>
       ching chang chong
     </Kaplow> */}
     {/* <Gallery items={data.homeJson.gallery} /> */}
-    <div style={{ height: '50vh' }} />
+    <div style={{ height: '100vh' }} />
     <IOExample />
   </Layout>
 );

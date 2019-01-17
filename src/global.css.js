@@ -31,7 +31,9 @@ export default createGlobalStyle`
 
   html {
     font-size: 62.5%;
-    border: 10px solid #f0b530;
+    border-top: 10px solid #41c7c7;
+    // border-bottom: 10px solid #41c7c7;
+
   }
 
   body {

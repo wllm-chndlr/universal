@@ -3,7 +3,7 @@ import { accent } from 'constants/theme';
 
 export const Container = styled.div`
   padding: 4rem;
-  margin: 4rem;
+  margin: auto;
   border-radius: 10px;
   position: relative;
   text-align: center;
@@ -11,5 +11,5 @@ export const Container = styled.div`
   max-width: 30%;
   transition: background-color 0.3s ease;
 
-  background-color: ${({ isVisible }) => (isVisible ? accent : ' #333')};
+  background-color: ${({ isVisible }) => (isVisible ? accent : ' #bada55')};
 `;
