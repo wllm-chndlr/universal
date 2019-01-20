@@ -8,7 +8,7 @@ import { Container } from './io-example.css';
 // every time we scroll back up. Use `hasBeenVisible` to keep the styles
 // after scrolling back up and down again.
 const IOExample = () => (
-  <IO rootMargin="-50px">
+  <IO rootMargin="-5px">
     {({ isVisible }) => (
       <Container isVisible={isVisible}>
         <Title tag="span">surprise!</Title>

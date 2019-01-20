@@ -3,13 +3,14 @@ import { accent } from 'constants/theme';
 
 export const Container = styled.div`
   padding: 4rem;
-  margin: auto;
-  border-radius: 10px;
+  margin: 10rem 0;
+//   border-radius: 10px;
   position: relative;
   text-align: center;
   color: #fff;
-  max-width: 30%;
+  width: 100%;
   transition: background-color 0.3s ease;
 
-  background-color: ${({ isVisible }) => (isVisible ? accent : ' #bada55')};
+  background-color: ${({ isVisible }) => (isVisible ? accent : '#bada55')};
+
 `;

@@ -49,6 +49,11 @@ const Index = ({ data }) => (
     {/* <Gallery items={data.homeJson.gallery} /> */}
     <div style={{ height: '100vh' }} />
     <IOExample />
+    <IOExample />
+    <IOExample />
+    <IOExample />
+    <IOExample />
+
   </Layout>
 );
 
