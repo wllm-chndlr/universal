@@ -14,30 +14,31 @@ export const Container = styled.header`
     // &:hover {
     //   color: #41c7c7;
     // }
+
+    // h1:before {
+    //   color: #e8e8e8;
+    //   content: 'wllm chndlr'
+    // }
+
+    // h1:hover:after {
+    //   display: none;
+    // }
+
+    // h1:hover:before {
+    //   content: 'william chandler';
+    //   color: #e8e8e8;
+    // }
   }
+
+  a:hover h1 {
+      display: none
+  };
 
   a:hover:before {
-    // display: none;
-  }
-
-  a:hover:after {
-      content: 'william chandler';
-      color: #e8e8e8;
-  }
+      content: "WILLIAM CHANDLER"
+    //   color: #e8e8e8;
+    //   transition: color 0.2s ease;
+    //   text-decoration: none;
+  };
 
 `;
-
-
-
-
-// .hover-me:before {
-//     content: 'new';
-//     display: inline-block;
-//     background: green;
-//     color: white;
-//     padding: 3px;
-// }
-// .hover-me:hover:before {
-//     content: 'add';
-//     background-color: red;
-// }

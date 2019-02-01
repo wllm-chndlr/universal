@@ -7,9 +7,9 @@ const Nav = () => (
     <ul>
       <li>
         <Link to="/">Home</Link>
-        <br/>
+        <br />
         <Link to="/projects">Projects</Link>
-        <br/>
+        <br />
         <Link to="/about">About</Link>
       </li>
       {/* <li>
