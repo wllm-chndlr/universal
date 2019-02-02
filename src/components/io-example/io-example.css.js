@@ -4,7 +4,6 @@ import { accent } from 'constants/theme';
 export const Container = styled.div`
   padding: 4rem;
   margin: 10rem 0;
-//   border-radius: 10px;
   position: relative;
   text-align: center;
   color: #fff;
@@ -12,5 +11,4 @@ export const Container = styled.div`
   transition: background-color 0.3s ease;
 
   background-color: ${({ isVisible }) => (isVisible ? accent : '#bada55')};
-
 `;

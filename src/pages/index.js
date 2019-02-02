@@ -2,7 +2,7 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Layout from 'components/layout';
 import Box from 'components/box';
-import Gallery from 'components/gallery';
+// import Gallery from 'components/gallery';
 import Title from 'components/title';
 import Kaplow from 'components/kaplow';
 import IOExample from 'components/io-example';
@@ -28,14 +28,13 @@ const Index = ({ data }) => (
     <Kaplow>
       <div>Hey, everyone. Thanks for stopping by.</div>
     </Kaplow>
-    <Gallery items={data.homeJson.gallery} />
-    <div style={{ height: '100vh' }} />
+    {/* <Gallery items={data.homeJson.gallery} /> */}
+    <div style={{ height: '50vh' }} />
     <IOExample />
     <IOExample />
     <IOExample />
     <IOExample />
     <IOExample />
-
   </Layout>
 );
 

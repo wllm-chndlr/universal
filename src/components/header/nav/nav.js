@@ -8,8 +8,12 @@ const Nav = () => (
       <li>
         <Link to="/">Home</Link>
         <br />
+      </li>
+      <li>
         <Link to="/projects">Projects</Link>
         <br />
+      </li>
+      <li>
         <Link to="/about">About</Link>
       </li>
       {/* <li>
