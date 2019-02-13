@@ -11,7 +11,7 @@ const IOExample = () => (
   <IO rootMargin="-5px">
     {({ isVisible }) => (
       <Container isVisible={isVisible}>
-        <Title tag="span">surprise!</Title>
+        <Title tag="span"></Title>
       </Container>
     )}
   </IO>
