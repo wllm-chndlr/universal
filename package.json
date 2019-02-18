@@ -16,7 +16,9 @@
     "@reach/dialog": "^0.1.2",
     "@reach/router": "^1.1.1",
     "@reach/visually-hidden": "^0.1.1",
+    "aos": "^2.3.4",
     "babel-plugin-styled-components": "^1.7.1",
+    "classnames": "^2.2.6",
     "gatsby": "^2.0.6",
     "gatsby-image": "^2.0.5",
     "gatsby-plugin-google-fonts": "^0.0.4",
@@ -37,6 +39,7 @@
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
     "react-pose": "^3.3.0",
+    "scrollmonitor-react": "^2.4.1",
     "styled-components": "^4.0.0-beta.7",
     "yarn": "^1.12.3"
   },
